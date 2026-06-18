@@ -1,0 +1,13 @@
+{
+  "author": "Codex User",
+  "description": "Agnes Video V2.0 API integration for generating videos using the agnes-video-v2.0 model. Supports Text-to-Video, Image-to-Video, Multi-Image Video, and Keyframe Animation.",
+  "name": "agnes-video",
+  "version": "1.0.0",
+  "trigger": "video generation, create video, agnes video, text to video, image to video, generate video clip, video ai",
+  "skills": [
+    {
+      "name": "agnes-video-generate",
+      "description": "Generate videos using Agnes Video V2.0 API"
+    }
+  ]
+}
